@@ -1,0 +1,4 @@
+telebot
+googlesearch
+bs4
+requests
